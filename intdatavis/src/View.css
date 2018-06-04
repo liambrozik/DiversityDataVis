@@ -1,0 +1,27 @@
+.View {
+  width: 100vw;
+  height: 100vh;
+}
+.title {
+  font-family: "Contrail One", serif;
+  width: 100%;
+  font-weight: 500;
+  font-size: 20px;
+  height: 35px;
+  padding-left: 20px;
+  padding-top: 10px;
+  color: #009272;
+  background-color: #ffffff;
+  padding-left: 20%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 200;
+}
+.subtitle {
+  color: rgba(0, 0, 0, 0.205);
+  font-size: 12px;
+  font-weight: 100;
+  padding-left: 10px;
+  font-family: "Cormorant";
+}
